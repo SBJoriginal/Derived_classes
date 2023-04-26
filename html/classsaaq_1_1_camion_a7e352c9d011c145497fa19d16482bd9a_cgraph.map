@@ -1,0 +1,9 @@
+<map id="saaq::Camion::reqVehiculeFormate" name="saaq::Camion::reqVehiculeFormate">
+<area shape="rect" id="node1" title="Montre un affichage des informations de bases de la class Vehicule et les informations unique du cami..." alt="" coords="5,78,200,119"/>
+<area shape="rect" id="node2" href="$classsaaq_1_1_camion.html#a538d7c65543ca798285ad3812092fd20" title="Donne le nombre d&#39;essieux d&#39;un objet en int." alt="" coords="248,5,491,32"/>
+<area shape="rect" id="node3" href="$classsaaq_1_1_camion.html#a16b06cfe5f8060980caad811b72d66a2" title="Donne le poids d&#39;un objet en double." alt="" coords="282,56,457,83"/>
+<area shape="rect" id="node4" href="$classsaaq_1_1_vehicule.html#a9d0ff95273ecd7858cf9bd12aac359ba" title="Montre un affichage des informations de bases d&#39;un objet de la class Vehicule." alt="" coords="269,107,469,149"/>
+<area shape="rect" id="node7" href="$classsaaq_1_1_camion.html#af01bdc48db3cdeb3bc29c8b864ffdad8" title="Calcule le coût du renouvellement de l&#39;immatriculation pour un camion dans la valeur m_tarif." alt="" coords="275,173,464,214"/>
+<area shape="rect" id="node5" href="$classsaaq_1_1_vehicule.html#a679575abcb95ec376e80d293d84f7b57" title="Donne l&#39;immatriculation d&#39;un objet en string." alt="" coords="539,89,788,116"/>
+<area shape="rect" id="node6" href="$classsaaq_1_1_vehicule.html#ab8f91bc2878abacf7e188cc5161df66c" title="Donne le numéro de série d&#39;un objet en string." alt="" coords="580,140,747,167"/>
+</map>

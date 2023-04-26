@@ -1,0 +1,3 @@
+<map id="util::validerImmatriculationCamion" name="util::validerImmatriculationCamion">
+<area shape="rect" id="node1" title="Valide si le numéro d&#39;immatriculation fournit est valide en bool." alt="" coords="5,29,205,71"/>
+</map>

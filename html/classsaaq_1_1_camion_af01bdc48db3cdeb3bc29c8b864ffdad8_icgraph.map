@@ -1,0 +1,4 @@
+<map id="saaq::Camion::tarificationAnnuelle" name="saaq::Camion::tarificationAnnuelle">
+<area shape="rect" id="node1" title="Calcule le coût du renouvellement de l&#39;immatriculation pour un camion dans la valeur m_tarif." alt="" coords="248,5,437,47"/>
+<area shape="rect" id="node2" href="$classsaaq_1_1_camion.html#a7e352c9d011c145497fa19d16482bd9a" title="Montre un affichage des informations de bases de la class Vehicule et les informations unique du cami..." alt="" coords="5,5,200,47"/>
+</map>

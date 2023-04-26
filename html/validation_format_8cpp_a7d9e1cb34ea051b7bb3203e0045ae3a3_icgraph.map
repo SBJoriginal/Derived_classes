@@ -1,0 +1,3 @@
+<map id="util::validerNiv" name="util::validerNiv">
+<area shape="rect" id="node1" title="Valide si le numéro de série fournit est valide en bool." alt="" coords="5,29,124,56"/>
+</map>

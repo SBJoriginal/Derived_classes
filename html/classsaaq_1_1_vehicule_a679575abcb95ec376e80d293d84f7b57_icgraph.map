@@ -1,0 +1,6 @@
+<map id="saaq::Vehicule::reqImmatriculation" name="saaq::Vehicule::reqImmatriculation">
+<area shape="rect" id="node1" title="Donne l&#39;immatriculation d&#39;un objet en string." alt="" coords="496,46,745,73"/>
+<area shape="rect" id="node2" href="$classsaaq_1_1_vehicule.html#a9d0ff95273ecd7858cf9bd12aac359ba" title="Montre un affichage des informations de bases d&#39;un objet de la class Vehicule." alt="" coords="248,39,448,80"/>
+<area shape="rect" id="node3" href="$classsaaq_1_1_vehicule_promenade.html#a338b22f240c47613ba08f37bf717658b" title="Montre un affichage des informations de bases de la class Vehicule et les informations uniques du véh..." alt="" coords="7,5,198,47"/>
+<area shape="rect" id="node4" href="$classsaaq_1_1_camion.html#a7e352c9d011c145497fa19d16482bd9a" title="Montre un affichage des informations de bases de la class Vehicule et les informations unique du cami..." alt="" coords="5,71,200,112"/>
+</map>
